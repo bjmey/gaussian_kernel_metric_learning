@@ -1,4 +1,4 @@
-# About
+# Deep Metric Learning and Image Classification with Nearest Neighbour Gaussian Kernels
 Pytorch implementation of "Deep metric learning and image classification with nearest neighbour gaussian kernels"  - [paper](https://arxiv.org/pdf/1705.09780.pdf "paper").
 
 Citation:
